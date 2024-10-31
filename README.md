@@ -1,6 +1,6 @@
-# Savings Tracker
+# Price Tracker
 
-Savings Tracker is a powerful tool that helps you monitor and receive timely updates on product prices from various e-commerce websites. Stay informed about price drops and take advantage of the best deals effortlessly.
+Price Tracker is a powerful tool that helps you monitor and receive timely updates on product prices from various e-commerce websites. Stay informed about price drops and take advantage of the best deals effortlessly.
 
 
 ## Features
